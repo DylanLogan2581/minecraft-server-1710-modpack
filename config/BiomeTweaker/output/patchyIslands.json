@@ -1,0 +1,34 @@
+
+{
+  "ID": 53,
+  "Name": "patchyIslands",
+  "Class": "thebetweenlands.world.biomes.BiomePatchyIslands",
+  "Color": 0,
+  "Root Height": 0.59375,
+  "Height Variation": 0.0234375,
+  "Top Block": "thebetweenlands:swampGrass",
+  "Filler Block": "thebetweenlands:swampDirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "1589792",
+  "Temperature": 2.0,
+  "Humidity": 0.0,
+  "Water Tint": 1589792,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WET",
+    "CONIFEROUS",
+    "OCEAN",
+    "RIVER",
+    "FOREST",
+    "SWAMP"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

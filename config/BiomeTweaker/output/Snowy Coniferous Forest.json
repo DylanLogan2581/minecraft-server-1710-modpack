@@ -1,0 +1,34 @@
+
+{
+  "ID": 49,
+  "Name": "Snowy Coniferous Forest",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenConiferousForestSnow",
+  "Color": 16777215,
+  "Root Height": 0.1,
+  "Height Variation": 0.3,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.0,
+  "Humidity": 0.5,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": true,
+  "Dictionary Types": [
+    "COLD",
+    "DENSE",
+    "CONIFEROUS",
+    "FOREST",
+    "HILLS",
+    "SNOWY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

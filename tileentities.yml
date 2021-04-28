@@ -1,0 +1,147 @@
+# This is the main configuration file for TileEntities.
+# 
+# If you need help with the configuration or have any questions related to Cauldron,
+# join us at the IRC or drop by our forums and leave a post.
+# 
+# IRC: #cauldron @ irc.esper.net ( http://webchat.esper.net/?channel=cauldron )
+# Forums: http://cauldron.minecraftforge.net/
+# 
+# Setting: settings.skip-tileentity-ticks Default: true   # If enabled, turns on tileentity tick skip feature when no players are near.
+# Setting: debug.enable-te-inventory-warning Default: false   # Set true to detect which tileentities with inventory failed to detect size for Bukkit's InventoryType enum. Note: This may detect a false-positive.
+# Setting: settings.prevent-invalid-tileentity-updates Default: true   # Used to determine if a tileentity should tick and if not the TE is added to a ban list. Note: This should help improve performance.
+# Setting: debug.enable-te-can-update-warning Default: false   # Set true to detect which tileentities should not be ticking.
+# Setting: debug.enable-te-place-warning Default: false   # Warn when a mod requests tile entity from a block that doesn't support one
+
+settings:
+  skip-tileentity-ticks: false
+  prevent-invalid-tileentity-updates: false
+debug:
+  enable-te-inventory-warning: false
+  enable-te-can-update-warning: false
+  enable-te-place-warning: false
+config-version: 1
+world-settings:
+  default:
+    gregtech-tileentity-misc-MultiTileEntityFluidSpring:
+      tick-no-players: false
+      tick-interval: 1
+    net-mcft-copy-betterstorage-tile-crate-TileEntityCrate:
+      tick-no-players: false
+      tick-interval: 1
+    net-spanser-furnace3d-tileentity-TileEntityFurnace3D:
+      tick-no-players: false
+      tick-interval: 1
+    net-malisis-doors-door-tileentity-CustomDoorTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    gregtech-tileentity-tools-MultiTileEntityAnvil:
+      tick-no-players: false
+      tick-interval: 1
+    rowautomation-tileentities-TileEntitySignal:
+      tick-no-players: false
+      tick-interval: 1
+    rowautomation-tileentities-TileEntityStation:
+      tick-no-players: false
+      tick-interval: 1
+    rowautomation-tileentities-TileEntityPointer:
+      tick-no-players: false
+      tick-interval: 1
+    com-carpentersblocks-tileentity-TECarpentersSafe:
+      tick-no-players: false
+      tick-interval: 1
+    electroblob-wizardry-tileentity-TileEntityStatue:
+      tick-no-players: false
+      tick-interval: 1
+    com-yurtmod-blocks-TileEntityTentDoor:
+      tick-no-players: false
+      tick-interval: 1
+    net-malisis-doors-entity-DoorFactoryTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    gregtech-tileentity-portals-MultiTileEntityMiniPortalErebus:
+      tick-no-players: false
+      tick-interval: 1
+    electroblob-wizardry-tileentity-TileEntityArcaneWorkbench:
+      tick-no-players: false
+      tick-interval: 1
+    electroblob-wizardry-tileentity-TileEntityMagicLight:
+      tick-no-players: false
+      tick-interval: 1
+    com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityChestSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
+    com-teammetallurgy-atum-blocks-tileentity-TileEntityBurningTrap:
+      tick-no-players: false
+      tick-interval: 1
+    com-teammetallurgy-atum-blocks-tileentity-chests-TileEntityPharaohChest:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileWandPedestal:
+      tick-no-players: false
+      tick-interval: 1
+    gregtech-tileentity-energy-generators-MultiTileEntityGeneratorSolid:
+      tick-no-players: false
+      tick-interval: 1
+    gregtech-tileentity-tools-MultiTileEntitySmeltery:
+      tick-no-players: false
+      tick-interval: 1
+    electroblob-wizardry-tileentity-TileEntityPlayerSave:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityPiston:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityCommandBlock:
+      tick-no-players: false
+      tick-interval: 1
+    de-teamlapen-vampirism-tileEntity-TileEntityCoffin:
+      tick-no-players: false
+      tick-interval: 1
+    saracalia-scm-tileentities-C201TEC201A:
+      tick-no-players: false
+      tick-interval: 1
+    saracalia-scm-tileentities-FocusTEFocus1LightBlue:
+      tick-no-players: false
+      tick-interval: 1
+    thebetweenlands-tileentities-TileEntityItemCage:
+      tick-no-players: false
+      tick-interval: 1
+    net-mcft-copy-betterstorage-tile-entity-TileEntityLocker:
+      tick-no-players: false
+      tick-interval: 1
+    net-malisis-doors-door-tileentity-DoorTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    net-row-tileentity-TileEntityClockTower:
+      tick-no-players: false
+      tick-interval: 1
+    team-chisel-block-tileentity-TileEntityPresent:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNode:
+      tick-no-players: false
+      tick-interval: 1
+    gregapi-block-multitileentity-example-MultiTileEntityChest:
+      tick-no-players: false
+      tick-interval: 1
+    gregtech-tileentity-misc-MultiTileEntityBumbleHive:
+      tick-no-players: false
+      tick-interval: 1
+    StevenDimDoors-modpocketDim-tileentities-TileEntityRift:
+      tick-no-players: false
+      tick-interval: 1
+    pavocado-exoticbirds-entity-TileEntity-TileEntityNest:
+      tick-no-players: false
+      tick-interval: 1
+    thebetweenlands-tileentities-TileEntityTarBeastSpawner:
+      tick-no-players: false
+      tick-interval: 1
+    thebetweenlands-tileentities-TileEntityWisp:
+      tick-no-players: false
+      tick-interval: 1

@@ -1,0 +1,34 @@
+
+{
+  "ID": 13,
+  "Name": "Meadow Forest",
+  "Class": "biomesoplenty.common.biome.overworld.sub.BiomeGenMeadowForest",
+  "Color": 5543515,
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.7,
+  "Humidity": 0.7,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "COLD",
+    "LUSH",
+    "FOREST",
+    "PLAINS",
+    "MOUNTAIN",
+    "SNOWY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

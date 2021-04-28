@@ -1,0 +1,37 @@
+
+{
+  "ID": 50,
+  "Name": "swamplands",
+  "Class": "thebetweenlands.world.biomes.BiomeSwampLands",
+  "Color": 0,
+  "Root Height": 0.1875,
+  "Height Variation": 0.0,
+  "Top Block": "thebetweenlands:deadGrass",
+  "Filler Block": "thebetweenlands:swampDirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "1589792",
+  "Temperature": 2.0,
+  "Humidity": 0.0,
+  "Water Tint": 1589792,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "DENSE",
+    "WET",
+    "SPOOKY",
+    "DEAD",
+    "OCEAN",
+    "RIVER",
+    "FOREST",
+    "SWAMP",
+    "WASTELAND"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

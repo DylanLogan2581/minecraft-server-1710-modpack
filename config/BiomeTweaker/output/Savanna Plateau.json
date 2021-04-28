@@ -1,0 +1,37 @@
+
+{
+  "ID": 36,
+  "Name": "Savanna Plateau",
+  "Class": "biomesoplenty.common.biome.overridden.BiomeGenBOPSavanna",
+  "Color": 5215831,
+  "Root Height": -0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "6512772",
+  "Temperature": 0.6,
+  "Humidity": 0.9,
+  "Water Tint": 6512772,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "SPARSE",
+    "DENSE",
+    "WET",
+    "SAVANNA",
+    "LUSH",
+    "FOREST",
+    "PLAINS",
+    "SWAMP"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

@@ -1,0 +1,32 @@
+
+{
+  "ID": 69,
+  "Name": "Mystic Grove",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenMysticGrove",
+  "Color": 6934491,
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16715898",
+  "Temperature": 0.7,
+  "Humidity": 1.0,
+  "Water Tint": 16715898,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WET",
+    "LUSH",
+    "MAGICAL",
+    "FOREST"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

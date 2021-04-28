@@ -1,0 +1,14 @@
+recipes.removeShaped(<mod_LATL:itemLamppost>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, null, <minecraft:glowstone_dust>], [<minecraft:iron_ingot>, null, null]]);
+recipes.removeShaped(<mod_LATL:itemDoubleLamppost>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<minecraft:glowstone_dust>, <minecraft:iron_ingot>, <minecraft:glowstone_dust>], [null, <minecraft:iron_ingot>, null]]);
+recipes.removeShaped(<mod_LATL:itemSimpleLamppost>, [[<minecraft:glass_pane>, <minecraft:torch>, <minecraft:glass_pane>], [<minecraft:coal>, <minecraft:iron_ingot>, <minecraft:coal>], [null, <minecraft:iron_ingot>, null]]);
+recipes.removeShaped(<mod_LATL:itemTrafficLight>, [[<minecraft:iron_ingot>, <minecraft:glass_pane>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:torch>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:glass_pane>, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<mod_LATL:itemPoleKnick>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [null, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [null, null, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<mod_LATL:itemRRArmS>, [[<minecraft:dye:1>, <minecraft:dye:15>, <minecraft:dye:1>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <mod_LATL:itemPoleVer>], [<minecraft:glowstone_dust>, <minecraft:redstone>, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<mod_LATL:itemRRArmM>, [[<minecraft:dye:1>, <minecraft:dye:15>, null], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <mod_LATL:itemRRArmS>], [<minecraft:dye:1>, <minecraft:dye:15>, null]]);
+recipes.removeShaped(<mod_LATL:itemRRArmL>, [[<minecraft:dye:1>, <minecraft:dye:15>, null], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <mod_LATL:itemRRArmM>], [<minecraft:dye:1>, <minecraft:dye:15>, null]]);
+recipes.removeShaped(<mod_LATL:itemRRCrossLamps>, [[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:redstone>, <mod_LATL:itemPoleVer>, <minecraft:redstone>], [<minecraft:glowstone_dust>, null, <minecraft:glowstone_dust>]]);
+recipes.removeShaped(<mod_LATL:itemRRPoleStub>, [[null, <minecraft:iron_ingot>, null], [null, <minecraft:iron_ingot>, null], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<mod_LATL:itemPoleHor>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<mod_LATL:itemPole Ver>, [[<minecraft:iron_ingot>], [<minecraft:iron_ingot>], [<minecraft:iron_ingot>]]);
+recipes.removeShapeless(<mod_LATL:itemRRCrossSign>, [<minecraft:planks>, <minecraft:dye>, <minecraft:dye:15>]);
+recipes.removeShapeless(<mod_LATL:itemRRCrossSignWPole>, [<mod_LATL:itemRRCrossSign>, <mod_LATL:itemPoleVer>]);

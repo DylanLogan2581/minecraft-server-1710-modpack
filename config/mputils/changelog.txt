@@ -1,0 +1,13 @@
+4.0.1:
+-Remove Darwin Sprinting System (Annoying)
+-Remove Trophy Slots (Possibly broken, Maybe swordenchants)
+
+4.0.2:
++New Icon
+-Remove Sword Enchants  (Items changing meta during combat!)
+-Remove Spice of Life (Annoying, Maybe broken)
+
+4.0.3:
++Improved Main Menu
++Minor Cleanup of Instance
++Fixed Nomadic Tents

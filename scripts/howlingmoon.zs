@@ -1,0 +1,12 @@
+recipes.removeShaped(<howlingmoon:charm>, [[<minecraft:gold_ingot>, <minecraft:string>, <minecraft:gold_ingot>], [<minecraft:string>, <minecraft:gold_ingot>, <minecraft:string>], [<minecraft:glass:*>, <minecraft:paper>, <minecraft:glass:*>]]);
+recipes.removeShaped(<howlingmoon:ward>, [[<minecraft:glass:*>, <howlingmoon:wolfsbane:*>, <minecraft:glass:*>], [<minecraft:stick>, <minecraft:paper>, <minecraft:stick>], [<howlingmoon:wolfsbane:*>, <minecraft:stick>, <howlingmoon:wolfsbane:*>]]);
+recipes.removeShapeless(<howlingmoon:curePotion>, [<minecraft:glass_bottle>, <howlingmoon:wolfsbane>, <howlingmoon:wolfsbane>, <howlingmoon:wolfsbane>, <minecraft:fermented_spider_eye>, <minecraft:gold_nugget>]);
+recipes.removeShapeless(<howlingmoon:charm:3>, [<minecraft:sugar>, <minecraft:wheat>, <minecraft:rotten_flesh>, <howlingmoon:charm>]);
+recipes.removeShapeless(<howlingmoon:ward:2>, [<minecraft:nether_wart>, <minecraft:sugar>, <minecraft:fermented_spider_eye>, <howlingmoon:ward>]);
+recipes.removeShapeless(<howlingmoon:ward:3>, [<minecraft:nether_wart>, <minecraft:blaze_powder>, <minecraft:fermented_spider_eye>, <howlingmoon:ward>]);
+recipes.removeShapeless(<howlingmoon:calmingPotion>, [<minecraft:sugar>, <minecraft:glass_bottle>, <howlingmoon:wolfsbane>]);
+recipes.removeShapeless(<howlingmoon:savagePotion>, [<minecraft:spider_eye>, <minecraft:glass_bottle>, <howlingmoon:wolfsbane>]);
+recipes.removeShapeless(<howlingmoon:lycanthropeBook>, [<minecraft:book>, <howlingmoon:wolfsbane>]);
+recipes.removeShapeless(<howlingmoon:charm:1>, [<howlingmoon:calmingPotion>, <howlingmoon:charm>]);
+recipes.removeShapeless(<howlingmoon:charm:2>, [<howlingmoon:savagePotion>, <howlingmoon:charm>]);
+recipes.removeShapeless(<howlingmoon:ward:1>, [<howlingmoon:curePotion>, <howlingmoon:ward>]);

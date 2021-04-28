@@ -1,0 +1,33 @@
+
+{
+  "ID": 31,
+  "Name": "Cold Taiga Hills",
+  "Class": "biomesoplenty.common.biome.overridden.BiomeGenBOPTaiga",
+  "Color": 2375478,
+  "Root Height": 0.45,
+  "Height Variation": 0.3,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": -0.5,
+  "Humidity": 0.4,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": true,
+  "Dictionary Types": [
+    "COLD",
+    "CONIFEROUS",
+    "FOREST",
+    "HILLS",
+    "SNOWY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

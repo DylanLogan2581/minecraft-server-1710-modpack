@@ -1,0 +1,6 @@
+recipes.removeShaped(<littletiles:hammer>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [null, <minecraft:dye:4>, null], [null, <minecraft:dye:4>, null]]);
+recipes.removeShaped(<littletiles:container>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <littletiles:hammer>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
+recipes.removeShaped(<littletiles:saw>, [[null, <minecraft:iron_ingot>, null], [null, <minecraft:iron_ingot>, null], [null, <minecraft:dye:4>, null]]);
+recipes.removeShaped(<littletiles:wrench>, [[null, <minecraft:iron_ingot>, null], [null, <minecraft:dye:4>, null], [null, <minecraft:dye:4>, null]]);
+recipes.removeShaped(<littletiles:rubberMallet>, [[<minecraft:wool:*>, <minecraft:wool:*>, <minecraft:wool:*>], [<minecraft:wool:*>, <minecraft:dye:4>, <minecraft:wool:*>], [null, <minecraft:dye:4>, null]]);
+recipes.removeShaped(<littletiles:colorTube>, [[<minecraft:dye>, <minecraft:dye>, <minecraft:dye>], [<minecraft:dye>, <minecraft:iron_ingot>, <minecraft:dye>], [<minecraft:dye>, <minecraft:dye>, <minecraft:dye>]]);

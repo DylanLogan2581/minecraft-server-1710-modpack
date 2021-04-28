@@ -1,0 +1,33 @@
+
+{
+  "ID": 43,
+  "Name": "Tropical Rainforest",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenTropicalRainforest",
+  "Color": 8970560,
+  "Root Height": 0.2,
+  "Height Variation": 0.3,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "6160128",
+  "Temperature": 1.2,
+  "Humidity": 1.0,
+  "Water Tint": 6160128,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "DENSE",
+    "WET",
+    "JUNGLE",
+    "LUSH"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

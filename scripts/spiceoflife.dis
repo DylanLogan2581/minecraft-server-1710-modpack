@@ -1,0 +1,4 @@
+recipes.removeShaped(<SpiceOfLife:lunchbox>, [[<minecraft:heavy_weighted_pressure_plate>, null, <minecraft:heavy_weighted_pressure_plate>], [null, <minecraft:heavy_weighted_pressure_plate>, null]]);
+recipes.removeShaped(<SpiceOfLife:lunchbag>, [[<minecraft:paper>, null, <minecraft:paper>], [null, <minecraft:paper>, null]]);
+recipes.removeShapeless(<SpiceOfLife:bookfoodjournal>, [<minecraft:wheat>, <minecraft:paper>]);
+recipes.addShaped(<SpiceOfLife:bookfoodjournal>, [[<ore:bookEmpty>]]);

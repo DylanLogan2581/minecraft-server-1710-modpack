@@ -1,0 +1,31 @@
+
+{
+  "ID": 70,
+  "Name": "Mountain",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenMountain",
+  "Color": 8430421,
+  "Root Height": 2.5,
+  "Height Variation": 0.5,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 0.5,
+  "Humidity": 0.1,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "DRY",
+    "FOREST",
+    "MOUNTAIN"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

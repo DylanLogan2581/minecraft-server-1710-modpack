@@ -1,0 +1,34 @@
+
+{
+  "ID": 42,
+  "Name": "Tropics",
+  "Class": "biomesoplenty.common.biome.overworld.sub.BiomeGenTropics",
+  "Color": 2211330,
+  "Root Height": 0.2,
+  "Height Variation": 0.3,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 1.2,
+  "Humidity": 1.0,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WET",
+    "JUNGLE",
+    "LUSH",
+    "OCEAN",
+    "RIVER",
+    "BEACH"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

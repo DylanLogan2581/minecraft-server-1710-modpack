@@ -1,0 +1,32 @@
+
+{
+  "ID": 114,
+  "Name": "Bamboo Forest",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenBambooForest",
+  "Color": 10739795,
+  "Root Height": 0.1,
+  "Height Variation": 0.3,
+  "Top Block": "minecraft:grass",
+  "Filler Block": "minecraft:dirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 1.2,
+  "Humidity": 0.9,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "DENSE",
+    "JUNGLE",
+    "LUSH",
+    "FOREST"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}

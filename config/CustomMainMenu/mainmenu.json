@@ -1,0 +1,110 @@
+{
+    "images":
+    {
+        "background":
+        {
+            "image" : "custommainmenu:textures/gui/background.png",
+            "posX" : 0,
+            "posY" : 0,
+            "width" : 960,
+            "height" : 509,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -150,
+            "posY" : 30,
+            "width" : 320,
+            "height" : 41,
+            "alignment" : "top_center"
+        }
+    },
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "99.75.77.84:25564"
+            }
+        },
+        #"mods":
+        #{
+        #    "text" : "Mods",
+        #    "posX" : -100,
+        #    "posY" : 96,
+        #    "width" : 200,
+        #    "height" : 20,
+        #    "action" : 
+        #    {
+        #        "type" : "openGui",
+        #        "gui" : "mods"
+        #    }
+        #},
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 120,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+        #"refresh":
+        #{
+        #    "text" : "",
+        #    "posX" : -154,
+        #    "posY" : 132,
+        #    "width" : 20,
+        #    "height" : 20,
+        #    "texture" : "custommainmenu:textures/gui/buttons.png",
+        #    "action" : 
+        #    {
+        #        "type" : "refresh"
+        #    }
+        #}
+    },
+    "texts":
+    {
+    },
+    "other":
+    {
+    }
+}

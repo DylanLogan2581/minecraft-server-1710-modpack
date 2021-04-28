@@ -1,0 +1,32 @@
+
+{
+  "ID": 107,
+  "Name": "Canyon Ravine",
+  "Class": "biomesoplenty.common.biome.overworld.sub.BiomeGenCanyonRavine",
+  "Color": 9337689,
+  "Root Height": -0.1,
+  "Height Variation": 0.4,
+  "Top Block": "BiomesOPlenty:hardDirt",
+  "Filler Block": "BiomesOPlenty:hardDirt",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 1.0,
+  "Humidity": 0.3,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "DRY",
+    "HILLS",
+    "SANDY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

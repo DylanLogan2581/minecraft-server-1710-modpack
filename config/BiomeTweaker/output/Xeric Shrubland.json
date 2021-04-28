@@ -1,0 +1,31 @@
+
+{
+  "ID": 34,
+  "Name": "Xeric Shrubland",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenXericShrubland",
+  "Color": 14863781,
+  "Root Height": 0.05,
+  "Height Variation": 0.1,
+  "Top Block": "minecraft:sand",
+  "Filler Block": "minecraft:sand",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "16777215",
+  "Temperature": 1.0,
+  "Humidity": 0.2,
+  "Water Tint": 16777215,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "SPARSE",
+    "FOREST",
+    "MOUNTAIN"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": true,
+  "Tweaked": false
+}
