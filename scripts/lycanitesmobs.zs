@@ -62,3 +62,6 @@ recipes.removeShapeless(<mountainmobs:yalemeatcooked>, [<mountainmobs:peakskebab
 recipes.removeShapeless(<plainsmobs:makameatcooked>, [<plainsmobs:bulwarkburger>]);
 recipes.removeShapeless(<saltwatermobs:ikameatcooked>, [<saltwatermobs:seashellmaki>]);
 recipes.removeShapeless(<swampmobs:aspidmeatcooked>, [<swampmobs:mosspie>]);
+
+//Snack Recipes
+recipes.addShaped(<demonmobs:pinkytreat>, [[<ore:listAllmuttonraw>, <ore:listAllmuttonraw>, <ore:listAllmuttonraw>]]);

@@ -53,3 +53,4 @@ recipes.removeShaped(<malisisdoors:camoFenceGate>, [[<malisisdoors:acaciaFenceGa
 recipes.removeShaped(<malisisdoors:rustyLadder>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>]]);
 
 recipes.addShaped(<malisisdoors:saloon>, [[<ore:plankWood>, <ore:craftingToolAxe>, <ore:beamWood>], [<ore:plankWood>, <ore:plankWood>, <ore:beamWood>], [<ore:plankWood>, null, <ore:beamWood>]]);
+recipes.addShaped(<malisisdoors:item.custom_door>.withTag({item: 6781, sound: "carriage_door", openingTime: 60, autoCloseTime: 0, topMaterial: 5, bottomMaterial: 5, topMaterialMetadata: 0, frameMetadata: 0, bottomMaterialMetadata: 0, block: 2641, doubleDoor: 1 as byte, movement: "double_rotate_left", redstone: 0 as byte, frame: 17}), [[<ore:logWood>, <ore:plankWood>, <ore:logWood>], [<ore:logWood>, <ore:plankWood>, <ore:logWood>], [<ore:logWood>, <ore:plankWood>, <ore:logWood>]]);
