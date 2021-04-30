@@ -318,7 +318,10 @@ recipes.remove(<minecraft:fireworks>);
 furnace.remove(<minecraft:glass>);
 
 //Temporary Glass Bottle Recipe
+recipes.addShaped(<minecraft:glass_bottle>, [[<ore:dustBark>, <ore:dustBark>, <ore:dustBark>], [<ore:paneGlassColorless>, null, <ore:paneGlassColorless>], [null, <ore:paneGlassColorless>, null]]);
 
+//Charcoal
+recipes.addShaped(<minecraft:coal:1> * 4, [[<ore:craftingToolFlintAndTinder>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
 //Fences
 recipes.addShaped(<minecraft:fence_gate>, [[null, <gregtech:gt.metatool.01:10>, null], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>]]);
