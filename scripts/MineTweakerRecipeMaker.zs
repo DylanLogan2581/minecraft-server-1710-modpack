@@ -25,6 +25,8 @@
 // ================================================================================
 //#MARKER ADD SHAPELESS
 
-
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<minecraft:coal:1> * 4, [[<ore:craftingToolFlintAndTinder>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.addShaped(<minecraft:glass_bottle>, [[<ore:dustBark>, <ore:dustBark>, <ore:dustBark>], [<ore:paneGlassColorless>, null, <ore:paneGlassColorless>], [null, <ore:paneGlassColorless>, null]]);
+

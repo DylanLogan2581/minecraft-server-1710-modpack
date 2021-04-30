@@ -125,8 +125,6 @@ recipes.removeShapeless(<MoCreatures:MoCWoodPlank:1>, [<MoCreatures:MoCLog:1>]);
 recipes.addShaped(<MoCreatures:hide>, [[<ore:itemFur>, <ore:craftingToolKnife>]]);
 //Hide to leather
 recipes.addShaped(<minecraft:leather>, [[<MoCreatures:hide>, <ore:craftingToolKnife>]]);
-//Leather to hardened leather
-recipes.addShaped(<harvestcraft:hardenedleatherItem> * 2, [[null, <ore:dustBeeswax>, null], [<LeatherStrips:LeatherStrips>, <ore:itemLeather>, <LeatherStrips:LeatherStrips>], [null, <ore:dustBeeswax>, null]]);
 
 //Armors
 recipes.addShaped(<MoCreatures:furhelmet>, [[<ore:itemFur>, <ore:itemFur>, <ore:itemFur>], [<ore:itemFur>, null, <ore:itemFur>]]);

@@ -107,34 +107,34 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-fossil-VolcanicRockGenerator: false
+    worldgen-howlingmoon-WorldGenWolf: false
+    worldgen-harvestcraft-PamGardenGenerator: true
     worldgen-gregapi-GT_API_Proxy_Server: true
-    worldgen-gases-WorldGeneratorFogEmitter: false
-    worldgen-mowziesmobs-MowzieWorldGenerator: false
-    worldgen-gasesFramework-WorldGeneratorGasesFramework: false
-    worldgen-fossil-FossilGenerator: false
-    worldgen-dimdoors-GatewayGenerator: false
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: false
-    worldgen-fossil-TarGenerator: false
-    worldgen-wizardry-WizardryWorldGenerator: false
-    worldgen-chisel-GeneratorChisel: false
-    worldgen-exoticbirds-ExoticbirdsWorldGen: false
-    worldgen-CoFHCore-WorldHandler: false
     worldgen-thebetweenlands-WorldGenDruidCircle: false
     worldgen-erebus-WorldGenAntlionMaze: false
+    worldgen-exoticbirds-ExoticbirdsWorldGen: false
+    worldgen-arcticmobs-WorldGeneratorArctic: false
+    worldgen-wizardry-WizardryWorldGenerator: false
+    worldgen-roadstuff-OreGeneration: false
+    worldgen-gases-WorldGeneratorFogEmitter: false
+    worldgen-mowziesmobs-MowzieWorldGenerator: false
     worldgen-lootgames-LootGamesWorldGen: false
     worldgen-gases-WorldGeneratorGases: false
-    worldgen-infernomobs-WorldGeneratorInferno: false
-    worldgen-howlingmoon-WorldGenWolf: false
-    worldgen-Techguns-OreGenerator: false
-    worldgen-fossil-WorldGenMiscStructures: false
+    worldgen-fossil-VolcanicRockGenerator: false
     worldgen-vampirism-WorldGenVampirism: false
-    worldgen-arcticmobs-WorldGeneratorArctic: false
+    worldgen-fossil-WorldGenMiscStructures: false
+    worldgen-infernomobs-WorldGeneratorInferno: false
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: false
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-Techguns-OreGenerator: false
     worldgen-fantastic-CoralGenerator: false
     worldgen-LeatherStrips-LeatherStrips: false
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-roadstuff-OreGeneration: false
-    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-fossil-TarGenerator: false
+    worldgen-CoFHCore-WorldHandler: false
+    worldgen-fossil-FossilGenerator: false
+    worldgen-chisel-GeneratorChisel: false
+    worldgen-gasesFramework-WorldGeneratorGasesFramework: false
+    worldgen-dimdoors-GatewayGenerator: false
   max-players-visible: -1
   use-real-names: false
 protection:

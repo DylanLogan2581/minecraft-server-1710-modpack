@@ -317,6 +317,9 @@ recipes.remove(<minecraft:fireworks>);
 //Remove Vanilla Glassmaking
 furnace.remove(<minecraft:glass>);
 
+//Temporary Glass Bottle Recipe
+
+
 //Fences
 recipes.addShaped(<minecraft:fence_gate>, [[null, <gregtech:gt.metatool.01:10>, null], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>]]);
 recipes.addShaped(<minecraft:fence_gate>, [[null, <ore:craftingToolAxe>, null], [<ore:beamWood>, <ore:stickAnyNormalWood>, <ore:beamWood>], [<ore:beamWood>, <ore:stickAnyNormalWood>, <ore:beamWood>]]);
@@ -344,3 +347,4 @@ recipes.addShaped(<chisel:brickCustom:2>, [[<ore:ingotBrick>, <ore:ingotBrick>],
 
 //Saddle
 recipes.addShaped(<minecraft:saddle>, [[<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <LeatherStrips:LeatherStrips>], [<ore:materialHardenedleather>, <LeatherStrips:LeatherStrips>, <gregtech:gt.metatool.01:34>]]);
+

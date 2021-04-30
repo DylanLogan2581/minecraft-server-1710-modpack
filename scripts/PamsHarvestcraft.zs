@@ -1018,3 +1018,5 @@ recipes.addShaped(<harvestcraft:hardenedleatherbootsItem>, [[<harvestcraft:harde
 recipes.addShaped(<harvestcraft:hardenedleatherleggingsItem>, [[<harvestcraft:hardenedleatherItem>, <harvestcraft:hardenedleatherItem>, <harvestcraft:hardenedleatherItem>], [<harvestcraft:hardenedleatherItem>, null, <harvestcraft:hardenedleatherItem>], [<ore:materialHardenedleather>, null, <ore:materialHardenedleather>]]);
 recipes.addShaped(<harvestcraft:hardenedleatherhelmItem>, [[<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>], [<ore:materialHardenedleather>, null, <ore:materialHardenedleather>]]);
 recipes.addShaped(<harvestcraft:hardenedleatherchestItem>, [[<ore:materialHardenedleather>, null, <ore:materialHardenedleather>], [<harvestcraft:hardenedleatherItem>, <ore:materialHardenedleather>, <ore:materialHardenedleather>], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>]]);
+
+recipes.addShaped(<harvestcraft:hardenedleatherItem> * 2, [[null, <ore:dustBeeswax>, null], [<LeatherStrips:LeatherStrips>, <ore:itemLeather>, <LeatherStrips:LeatherStrips>], [null, <ore:dustBeeswax>, null]]);
