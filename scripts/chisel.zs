@@ -213,3 +213,6 @@ recipes.removeShapeless(<chisel:woolen_clay:12>, [<ore:blockWoolBrown>, <ore:sta
 recipes.removeShapeless(<chisel:woolen_clay:13>, [<ore:blockWoolGreen>, <ore:stainedClayGreen>]);
 recipes.removeShapeless(<chisel:woolen_clay:14>, [<ore:blockWoolRed>, <ore:stainedClayRed>]);
 recipes.removeShapeless(<chisel:woolen_clay:15>, [<ore:blockWoolBlack>, <ore:stainedClayBlack>]);
+
+recipes.addShaped(<chisel:brickCustom:2>, [[<ore:ingotBrick>, <ore:ingotBrick>], [<ore:ingotBrick>, <ore:ingotBrick>]]);
+recipes.addShaped(<chisel:brickCustom:3> * 5, [[<ore:dyeLightGray>, <minecraft:sand>, <ore:container1000water>], [<chisel:brickCustom:2>, <gregtech:gt.meta.dust:9189>, <chisel:brickCustom:2>], [<chisel:brickCustom:2>, <chisel:brickCustom:2>, <chisel:brickCustom:2>]]);

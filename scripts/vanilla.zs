@@ -346,7 +346,7 @@ recipes.addShaped(<minecraft:trapdoor>, [[null, <ore:craftingToolSawAxe>, <ore:n
 
 //bricks
 recipes.remove(<minecraft:brick_block>);
-recipes.addShaped(<chisel:brickCustom:2>, [[<ore:ingotBrick>, <ore:ingotBrick>], [<ore:ingotBrick>, <ore:ingotBrick>]]);
+recipes.addShapeless(<minecraft:brick_block>, [<chisel:brickCustom:3>, <ore:craftingToolChisel>, <ore:craftingToolFile>]);
 
 //Saddle
 recipes.addShaped(<minecraft:saddle>, [[<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <LeatherStrips:LeatherStrips>], [<ore:materialHardenedleather>, <LeatherStrips:LeatherStrips>, <gregtech:gt.metatool.01:34>]]);

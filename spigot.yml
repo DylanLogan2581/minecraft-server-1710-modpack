@@ -12,11 +12,11 @@
 
 config-version: 7
 settings:
-  fullMatchRate: 10
   bungeecord: false
+  fullMatchRate: 10
   late-bind: false
   sample-count: 12
-  timeout-time: 90
+  timeout-time: 600
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
@@ -37,24 +37,9 @@ stats:
 world-settings:
   default:
     verbose: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
     merge-radius:
       item: 2.5
       exp: 3.0
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    random-light-updates: false
-    save-structure-info: true
     mob-spawn-range: 4
     anti-xray:
       enabled: false
@@ -85,17 +70,32 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
     max-bulk-chunks: 7
     max-entity-collisions: 8
     max-tick-time:
       tile: 50
       entity: 50
     max-tnt-per-tick: 10
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     view-distance: 18
-    use-async-lighting: false
-    chunks-per-tick: 650
-    clear-tick-list: false
+    enable-zombie-pigmen-portal-spawns: false
     arrow-despawn-rate: 1200
     item-despawn-rate: 6000
-    enable-zombie-pigmen-portal-spawns: false
     zombie-aggressive-towards-villager: true
+    chunks-per-tick: 650
+    clear-tick-list: false
+    use-async-lighting: false

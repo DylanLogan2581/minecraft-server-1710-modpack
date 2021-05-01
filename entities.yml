@@ -62,11 +62,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    fantastic-entities-EntityClam:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    fantastic-entities-EntityLobster:
+    net-minecraft-entity-passive-EntityChicken:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -74,11 +70,23 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    fantastic-entities-EntityTuna:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     fantastic-entities-EntityMantaRay:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    fantastic-entities-EntityLobster:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     drzhark-mocreatures-entity-ambient-MoCEntityCrab:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    fantastic-entities-EntityClam:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -90,10 +98,6 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    fantastic-entities-EntitySailfish:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     drzhark-mocreatures-entity-ambient-MoCEntityFirefly:
       tick-no-players: false
       never-ever-tick: false
@@ -102,7 +106,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    fantastic-entities-EntityTuna:
+    fantastic-entities-EntitySailfish:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -110,7 +114,19 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    net-minecraft-entity-item-EntityFallingBlock:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     pavocado-exoticbirds-entity-Birds-EntityHummingbird:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    fantastic-entities-sharks-EntityHammerHead:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    fantastic-entities-EntitySalmon:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -118,19 +134,47 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    noppes-npcs-entity-EntityProjectile:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     fossilsarcheology-server-entity-mob-EntityPlesiosaurus:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-projectile-EntitySmallFireball:
+    lycanite-lycanitesmobs-swampmobs-entity-EntityPoisonRay:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    lycanite-lycanitesmobs-swampmobs-entity-EntityPoisonRayEnd:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-teammetallurgy-atum-entity-arrow-EntityArrowDoubleShot:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    fantastic-entities-sharks-EntityGreatWhite:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    techguns-entities-projectiles-GenericProjectile:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    techguns-entities-projectiles-RocketProjectile:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
     fantastic-entities-sharks-EntityBullShark:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-tmtravlr-potioncore-potion-EntityPotionCorePotion:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    noppes-npcs-entity-EntityProjectile:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-projectile-EntitySmallFireball:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -143,10 +187,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     net-minecraft-entity-item-EntityXPOrb:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-item-EntityFallingBlock:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -166,23 +206,11 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    fantastic-entities-sharks-EntityHammerHead:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-projectile-EntityEgg:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityChicken:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     noppes-npcs-entity-EntityChairMount:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    fantastic-entities-sharks-EntityGreatWhite:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -282,10 +310,6 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    fantastic-entities-EntitySalmon:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     fantastic-entities-EntityCatfish:
       tick-no-players: false
       never-ever-tick: false
@@ -311,10 +335,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     lycanite-lycanitesmobs-desertmobs-entity-EntityCrusk:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    com-tmtravlr-potioncore-potion-EntityPotionCorePotion:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -519,10 +539,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     gregapi-block-prefixblock-PrefixBlockFallingEntity:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    techguns-entities-projectiles-GenericProjectile:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -907,10 +923,6 @@ world-settings:
       never-ever-tick: false
       tick-interval: 1
     drzhark-mocreatures-entity-passive-MoCEntityBird:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    com-teammetallurgy-atum-entity-arrow-EntityArrowDoubleShot:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1

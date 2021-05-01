@@ -21,7 +21,17 @@ recipes.addShaped(<customnpcs:npcFullBronzeHead>, [[<ore:plateDoubleBronze>, <or
 recipes.addShaped(<customnpcs:npcFullIronChest>, [[<ore:plateTripleAnyIron>, <ore:craftingToolHardHammer>, <ore:plateTripleAnyIron>], [<ore:plateTripleAnyIron>, <minecraft:iron_chestplate>, <ore:plateTripleAnyIron>], [<ore:plateTripleAnyIron>, <ore:plateTripleAnyIron>, <ore:plateTripleAnyIron>]]);
 recipes.addShaped(<customnpcs:npcFullIronHead>, [[<ore:craftingToolHardHammer>, <minecraft:iron_helmet>, null], [<ore:plateDoubleIron>, <ore:plateTripleAnyIron>, <ore:plateDoubleIron>]]);
 
+//Shield Recipes
+recipes.addShaped(<customnpcs:npcFullBronzeShield>, [[<ore:plateCurvedBronze>, <ore:plateQuintupleBronze>, <ore:plateCurvedBronze>], [<ore:plateQuintupleBronze>, <ore:blockSolidBronze>, <ore:plateQuintupleBronze>], [<ore:plateQuintupleBronze>, <ore:plateQuintupleBronze>, <ore:plateQuintupleBronze>]]);
+recipes.addShaped(<customnpcs:npcFullIronShield>, [[<ore:plateCurvedAnyIronOrSteel>, <ore:plateDenseAnyIronOrSteel>, <ore:plateCurvedAnyIronOrSteel>], [<ore:plateCurvedAnyIronOrSteel>, <ore:blockSolidAnyIron>, <ore:plateCurvedAnyIronOrSteel>], [<ore:plateCurvedAnyIronOrSteel>, <ore:plateDenseAnyIronOrSteel>, <ore:plateCurvedAnyIronOrSteel>]]);
+recipes.addShaped(<customnpcs:npcIronShield>, [[<ore:stickLongAnyIron>, <ore:plateCurvedAnyIronOrSteel>, <ore:stickLongAnyIron>], [<ore:plateCurvedAnyIronOrSteel>, <customnpcs:npcWoodenShield>, <ore:plateCurvedAnyIronOrSteel>], [<ore:stickLongAnyIron>, <ore:plateCurvedAnyIronOrSteel>, <ore:stickLongAnyIron>]]);
+recipes.addShaped(<customnpcs:npcBronzeShield>, [[<ore:stickBronze>, <gregtech:gt.meta.plateCurved:8610>, <ore:stickBronze>], [<ore:plateCurvedBronze>, <customnpcs:npcWoodenShield>, <gregtech:gt.meta.plateCurved:8610>], [<ore:stickBronze>, <ore:plateCurvedBronze>, <ore:stickBronze>]]);
+recipes.addShaped(<customnpcs:npcWoodenShield>, [[<LeatherStrips:LeatherStrips>, <ore:plankWood>, <LeatherStrips:LeatherStrips>], [<ore:plankWood>, <ore:materialHardenedleather>, <ore:plankWood>], [<LeatherStrips:LeatherStrips>, <ore:plankWood>, <LeatherStrips:LeatherStrips>]]);
+
 //Add Furniture Recipes
+
+//Big sign
+recipes.addShaped(<customnpcs:npcBigSign>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:plankWood>, <ore:dyeBlack>, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
 
 //Shelves
 recipes.addShaped(<customnpcs:npcShelf:0>, [[<ore:craftingToolAxe>, <minecraft:wooden_slab:0>, null], [<ore:stickAnyNormalWood>, <ore:stickAnyNormalWood>, <ore:stickAnyNormalWood>], [<ore:stickAnyNormalWood>, null, <ore:stickAnyNormalWood>]]);
