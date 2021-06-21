@@ -12,8 +12,8 @@
 
 config-version: 7
 settings:
-  bungeecord: false
   fullMatchRate: 10
+  bungeecord: false
   late-bind: false
   sample-count: 12
   timeout-time: 600
@@ -91,11 +91,11 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
-    view-distance: 18
-    enable-zombie-pigmen-portal-spawns: false
-    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
     zombie-aggressive-towards-villager: true
+    view-distance: 18
     chunks-per-tick: 650
     clear-tick-list: false
     use-async-lighting: false
+    arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: false

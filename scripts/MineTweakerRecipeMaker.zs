@@ -27,3 +27,5 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<thebetweenlands:cavingRope> * 5, [[null, <LeatherStrips:LeatherStrips>, <ore:itemGrassDry>], [null, <ore:itemGrassDry>, null], [<ore:itemGrassDry>, null, null]]);
+
