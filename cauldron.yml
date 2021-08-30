@@ -107,34 +107,34 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: false
-    worldgen-lootgames-LootGamesWorldGen: false
-    worldgen-gases-WorldGeneratorGases: false
-    worldgen-fossil-FossilGenerator: false
-    worldgen-wizardry-WizardryWorldGenerator: false
+    worldgen-fossil-TarGenerator: false
+    worldgen-exoticbirds-ExoticbirdsWorldGen: false
+    worldgen-Techguns-OreGenerator: false
+    worldgen-vampirism-WorldGenVampirism: false
+    worldgen-arcticmobs-WorldGeneratorArctic: false
+    worldgen-thebetweenlands-WorldGenDruidCircle: false
+    worldgen-dimdoors-GatewayGenerator: false
+    worldgen-roadstuff-OreGeneration: false
     worldgen-gregapi-GT_API_Proxy_Server: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: false
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-infernomobs-WorldGeneratorInferno: false
+    worldgen-fossil-VolcanicRockGenerator: false
+    worldgen-gases-WorldGeneratorGases: false
+    worldgen-harvestcraft-PamGardenGenerator: true
     worldgen-gases-WorldGeneratorFogEmitter: false
     worldgen-howlingmoon-WorldGenWolf: false
-    worldgen-arcticmobs-WorldGeneratorArctic: false
-    worldgen-dimdoors-GatewayGenerator: false
-    worldgen-gasesFramework-WorldGeneratorGasesFramework: false
-    worldgen-CoFHCore-WorldHandler: false
-    worldgen-Techguns-OreGenerator: false
-    worldgen-fossil-TarGenerator: false
-    worldgen-fossil-VolcanicRockGenerator: false
-    worldgen-chisel-GeneratorChisel: false
-    worldgen-thebetweenlands-WorldGenDruidCircle: false
+    worldgen-wizardry-WizardryWorldGenerator: false
     worldgen-erebus-WorldGenAntlionMaze: false
     worldgen-mowziesmobs-MowzieWorldGenerator: false
-    worldgen-infernomobs-WorldGeneratorInferno: false
-    worldgen-roadstuff-OreGeneration: false
-    worldgen-fantastic-CoralGenerator: false
-    worldgen-exoticbirds-ExoticbirdsWorldGen: false
     worldgen-fossil-WorldGenMiscStructures: false
-    worldgen-vampirism-WorldGenVampirism: false
+    worldgen-chisel-GeneratorChisel: false
+    worldgen-fantastic-CoralGenerator: false
     worldgen-LeatherStrips-LeatherStrips: false
-    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-fossil-FossilGenerator: false
+    worldgen-lootgames-LootGamesWorldGen: false
+    worldgen-CoFHCore-WorldHandler: false
+    worldgen-gasesFramework-WorldGeneratorGasesFramework: false
   max-players-visible: -1
   use-real-names: false
 protection:
@@ -165,6 +165,7 @@ world-environment-settings:
     keep-world-loaded: false
   betweenlands:
     keep-world-loaded: false
+    enabled: true
   erebus:
     keep-world-loaded: false
   tent:
