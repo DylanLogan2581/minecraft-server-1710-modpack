@@ -37,6 +37,17 @@ stats:
 world-settings:
   default:
     verbose: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
+    max-bulk-chunks: 7
+    max-entity-collisions: 8
+    max-tick-time:
+      tile: 50
+      entity: 50
+    max-tnt-per-tick: 10
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -74,28 +85,17 @@ world-settings:
       animals: 32
       monsters: 32
       misc: 16
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    random-light-updates: false
-    save-structure-info: true
-    max-bulk-chunks: 7
-    max-entity-collisions: 8
-    max-tick-time:
-      tile: 50
-      entity: 50
-    max-tnt-per-tick: 10
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    item-despawn-rate: 6000
-    zombie-aggressive-towards-villager: true
     view-distance: 18
     chunks-per-tick: 650
     clear-tick-list: false
     use-async-lighting: false
+    zombie-aggressive-towards-villager: true
+    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: false
