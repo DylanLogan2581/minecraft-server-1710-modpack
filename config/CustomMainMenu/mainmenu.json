@@ -48,19 +48,6 @@
                 "ip" : "99.75.77.84:25564"
             }
         },
-        #"mods":
-        #{
-        #    "text" : "Mods",
-        #    "posX" : -100,
-        #    "posY" : 96,
-        #    "width" : 200,
-        #    "height" : 20,
-        #    "action" : 
-        #    {
-        #        "type" : "openGui",
-        #        "gui" : "mods"
-        #    }
-        #},
             
         "options":
         {
@@ -87,19 +74,6 @@
                 "type" : "quit"
             }
         }
-        #"refresh":
-        #{
-        #    "text" : "",
-        #    "posX" : -154,
-        #    "posY" : 132,
-        #    "width" : 20,
-        #    "height" : 20,
-        #    "texture" : "custommainmenu:textures/gui/buttons.png",
-        #    "action" : 
-        #    {
-        #        "type" : "refresh"
-        #    }
-        #}
     },
     "texts":
     {
