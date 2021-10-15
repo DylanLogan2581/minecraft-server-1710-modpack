@@ -196,3 +196,5 @@ recipes.removeShapeless(<fantastic:Shark Fin Soup>, [<fantastic:Seaweed>, <minec
 recipes.removeShapeless(<fantastic:Divers Suit>, [<fantastic:Single Tank>, <minecraft:iron_chestplate>]);
 recipes.removeShapeless(<fantastic:Divers Suit>, [<fantastic:Single Tank>, <fantastic:Divers Suit>]);
 recipes.removeShapeless(<fantastic:Divers Suit:*>, [<fantastic:Single Tank>, <fantastic:Divers Suit:*>]);
+
+recipes.addShapeless(<fantastic:Raw Fish Fillet> * 2, [[<minecraft:fish>, <gregtech:gt.metatool.01>]]);
