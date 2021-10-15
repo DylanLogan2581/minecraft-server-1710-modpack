@@ -197,4 +197,4 @@ recipes.removeShapeless(<fantastic:Divers Suit>, [<fantastic:Single Tank>, <mine
 recipes.removeShapeless(<fantastic:Divers Suit>, [<fantastic:Single Tank>, <fantastic:Divers Suit>]);
 recipes.removeShapeless(<fantastic:Divers Suit:*>, [<fantastic:Single Tank>, <fantastic:Divers Suit:*>]);
 
-recipes.addShapeless(<fantastic:Raw Fish Fillet> * 2, [<minecraft:fish>, <gregtech:gt.metatool.01>]);
+recipes.addShapeless(<fantastic:Raw Fish Fillet> * 2, [<minecraft:fish>, <ore:craftingToolBlade>]);
