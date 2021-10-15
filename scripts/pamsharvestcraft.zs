@@ -925,9 +925,9 @@ recipes.removeShapeless(<harvestcraft:butterItem>, [<ore:toolSaucepan>, <ore:lis
 //recipes.removeShapeless(<harvestcraft:cranberryyogurtItem>, [<ore:cropCranberry>, <ore:foodPlainyogurt>]);
 //recipes.removeShapeless(<harvestcraft:gravyItem>, [<ore:foodStock>, <ore:foodFlour>]);
 //recipes.removeShapeless(<harvestcraft:queenbeeItem>, [<harvestcraft:grubItem>, <harvestcraft:royaljellyItem>]);
-//recipes.removeShapeless(<harvestcraft:cottonItem>, [<ore:cropCotton>, <ore:cropCotton>]);
+recipes.removeShapeless(<harvestcraft:cottonItem>, [<ore:cropCotton>, <ore:cropCotton>]);
 //recipes.removeShapeless(<harvestcraft:wovencottonItem>, [<minecraft:string>, <minecraft:string>]);
-//recipes.removeShapeless(<harvestcraft:cottonItem>, [<ore:cropCandleberry>, <ore:cropCandleberry>]);
+recipes.removeShapeless(<harvestcraft:cottonItem>, [<ore:cropCandleberry>, <ore:cropCandleberry>]);
 recipes.removeShapeless(<harvestcraft:hardenedleatherItem>, [<minecraft:leather>, <ore:materialPressedwax>]);
 //recipes.removeShapeless(<harvestcraft:pamcandleDeco1>, [<ore:materialPressedwax>, <minecraft:string>]);
 //recipes.removeShapeless(<harvestcraft:asparagusseedItem>, [<harvestcraft:asparagusItem>]);
@@ -1020,3 +1020,6 @@ recipes.addShaped(<harvestcraft:hardenedleatherhelmItem>, [[<ore:materialHardene
 recipes.addShaped(<harvestcraft:hardenedleatherchestItem>, [[<ore:materialHardenedleather>, null, <ore:materialHardenedleather>], [<harvestcraft:hardenedleatherItem>, <ore:materialHardenedleather>, <ore:materialHardenedleather>], [<ore:materialHardenedleather>, <ore:materialHardenedleather>, <ore:materialHardenedleather>]]);
 
 recipes.addShaped(<harvestcraft:hardenedleatherItem> * 2, [[null, <ore:dustBeeswax>, null], [<LeatherStrips:LeatherStrips>, <ore:itemLeather>, <LeatherStrips:LeatherStrips>], [null, <ore:dustBeeswax>, null]]);
+
+recipes.addShapeless(<minecraft:string>, [<harvestcraft:cottonItem>, <harvestcraft:cottonItem>]);
+recipes.addShapeless(<harvestcraft:riceseedItem>, [<harvestcraft:riceItem>]);

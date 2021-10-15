@@ -324,9 +324,9 @@ recipes.addShaped(<minecraft:glass_bottle>, [[<ore:dustBark>, <ore:dustBark>, <o
 recipes.addShaped(<minecraft:coal:1> * 4, [[<ore:craftingToolFlintAndTinder>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
 //Fences
-recipes.addShaped(<minecraft:fence_gate>, [[null, <gregtech:gt.metatool.01:10>, null], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>]]);
+//recipes.addShaped(<minecraft:fence_gate>, [[null, <gregtech:gt.metatool.01:10>, null], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>], [<minecraft:planks>, <ore:stickAnyNormalWood>, <minecraft:planks>]]);
 recipes.addShaped(<minecraft:fence_gate>, [[null, <ore:craftingToolAxe>, null], [<ore:beamWood>, <ore:stickAnyNormalWood>, <ore:beamWood>], [<ore:beamWood>, <ore:stickAnyNormalWood>, <ore:beamWood>]]);
-recipes.addShaped(<minecraft:fence>, [[null, <ore:craftingToolAxe>, null], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>]]);
+//recipes.addShaped(<minecraft:fence>, [[null, <ore:craftingToolAxe>, null], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>]]);
 recipes.addShaped(<minecraft:fence> * 4, [[null, <ore:craftingToolSawAxe>, null], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>], [<ore:plankWood>, <ore:stickAnyNormalWood>, <ore:plankWood>]]);
 
 //Crafting Table
