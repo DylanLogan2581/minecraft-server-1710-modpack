@@ -210,3 +210,5 @@ recipes.removeShapeless(<thebetweenlands:unknownGeneric:5>, [<thebetweenlands:bl
 
 <thebetweenlands:weedwoodRowboat>.displayName = "Rowboat";
 recipes.addShaped(<thebetweenlands:weedwoodRowboat>, [[null, <cuchaz.ships:paddle>, null], [<ore:beamWood>, <cuchaz.ships:paddle>, <ore:beamWood>], [<ore:beamWood>, <ore:beamWood>, <ore:beamWood>]]);
+
+recipes.addShaped(<thebetweenlands:cavingRope> * 5, [[null, <LeatherStrips:LeatherStrips>, <ore:itemGrassDry>], [null, <ore:itemGrassDry>, null], [<ore:itemGrassDry>, null, null]]);
